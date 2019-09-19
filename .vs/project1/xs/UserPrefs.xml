@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E66FED68-071E-F0AC-3037-51659F892569}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PhongShader.shader">
+    <Files>
+      <File FileName="Assets/DiamondSquare.cs" Line="31" Column="49" />
+      <File FileName="Assets/PhongShader.shader" Line="111" Column="20" />
+      <File FileName="../../Downloads/Lab4/Assets/WaveShader.shader" Line="33" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="project1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PhongShader.shader" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f4718094-1862-41b1-ba98-fd01a07eca0a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+
+Borui Liao (1033202) liaob@student.unimelb.edu.au
+Terrain generation with realistic colours and texture (diamond square algorithm), camera controller, location and collision detection/prevention.
+
+Amy Nightingale (836303) anightingale@student.unimelb.edu.au
+Water and realistic wave generation (with a realistic custom shader and texture), framerate limiter, colour choice and adjusted variables to make phong illumination and mountain colour generation realistic. Combined the water with the terrain.
+
+Yu Hui Yuan (915004) yuan8@student.unimelb.edu.au
+Texture implementation, Sun movement and production of shaders for phong illumination + night/day time lighting
+

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A5BCE942-FD57-8E28-AD5B-4C72A9E85044}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DiamondSquare.cs">
+    <Files>
+      <File FileName="Assets/DiamondSquare.cs" Line="43" Column="1" />
+      <File FileName="Assets/PhongShader.shader" Line="110" Column="19" />
+      <File FileName="Assets/WaveShader.shader" Line="123" Column="1" />
+      <File FileName="Assets/CameraControl.cs" Line="71" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="project1_v3" expanded="True">
+            <Node name="Assembly-CSharp" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="efcb0949-59c9-4fd3-bbf2-fb5f37d9e8a4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
